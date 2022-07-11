@@ -99,49 +99,6 @@ public class App {
         contaTiago.verSaldo();
 
 
-
-
-
-//
-//
-//        ClientePF murilo = new ClientePF()
-//
-//        ContaCorrentePF contaTiago = new ContaCorrentePF(zidane, 9342, new BigDecimal("1500.00"));
-//        ContaCorrentePF contaZico = new ContaCorrentePF(zico, 1717, new BigDecimal("2500.00"));
-        //ContaInvestimentoPF contaInvTiago = new ContaInvestimentoPF(zidane, 99342);
-//
-//        // ContaPF contaMaradona = new ContaPF(maradona,2323,new
-//        // BigDecimal("1200.00"),1000.00);
-//
-//        System.out.println(zidane);
-//        System.out.println(zico);
-//        System.out.println(maradona);
-//
-//        // System.out.println(contaTiago);
-//
-//
-////		contaTiago.investir(new BigDecimal("100"), contaInvTiago);
-////
-////		contaTiago.verSaldo();
-////		contaInvTiago.render();
-////		contaInvTiago.verSaldo();
-////		contaInvTiago.resgatar(new BigDecimal("50"), contaTiago);
-////		contaInvTiago.verSaldo();
-////		contaTiago.verSaldo();
-////
-////		 contaTiago.sacar(new BigDecimal("500.00"));
-////		 contaTiago.verSaldo();
-////
-////		 contaTiago.tranferir(new BigDecimal("50.00"), contaZico);
-////		 contaTiago.verSaldo();
-////		 contaZico.verSaldo();
-//
-//        // contaTiago.depositar( new BigDecimal("10.03"));
-//        // contaTiago.verSaldo();
-//
-
-
-
     }
 
 }
